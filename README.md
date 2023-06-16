@@ -23,7 +23,7 @@ Refer to this Github documents: https://docs.github.com/en/repositories/working-
 
 ### Submit a pull request from your forked repository:
 
-  - *** Before creating the pull request, it's recommended to sync your forked repository with the latest changes from the original repository. ***
+  *** Before creating the pull request, it's recommended to sync your forked repository with the latest changes from the original repository. ***
   - Go to the original repository's page (https://github.com/myothida/Supervised-Machine-Learning.git).
   - Above the list of files, click on the "Pull request" button.
   - On the next page, click on the "New pull request" button.
