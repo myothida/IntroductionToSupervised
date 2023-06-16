@@ -2,7 +2,7 @@
   - Go to the original repository's page: https://github.com/myothida/Supervised-Machine-Learning.git
   - Click on the "Fork" button in the top-right corner. This will create a copy of the repository under your GitHub account
 
-## Upload your files to the forked repo - in the CMU_SML folder.
+## Upload your files to the forked repo - CMU_SML folder.
 - Go to your forked repository's page on GitHub.
 - Refer to this doument: https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository.
 - Click on the "Add file" button, located above the list of files.
